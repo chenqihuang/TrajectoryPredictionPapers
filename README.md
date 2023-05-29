@@ -16,6 +16,7 @@ Trajectory Prediction in Autonomous Driving
 - EqMotion: Equivariant Multi-Agent Motion Prediction With Invariant Interaction Reasoning. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.htmlhttps://openaccess.thecvf.com/content/CVPR2023/html/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.html) 
 - FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Rowe_FJMP_Factorized_Joint_Multi-Agent_Motion_Prediction_Over_Learned_Directed_Acyclic_CVPR_2023_paper.html) 
 - Weakly Supervised Class-Agnostic Motion Prediction for Autonomous Driving. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Weakly_Supervised_Class-Agnostic_Motion_Prediction_for_Autonomous_Driving_CVPR_2023_paper.html)
+- ViP3D: End-to-end Visual Trajectory Prediction via 3D Agent Queries. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gu_ViP3D_End-to-End_Visual_Trajectory_Prediction_via_3D_Agent_Queries_CVPR_2023_paper.html) [code](https://github.com/Tsinghua-MARS-Lab/ViP3D)
 
 # CVPR2022
 - ATPFL: Automatic Trajectory Prediction Model Design Under Federated Learning Framework
