@@ -4,7 +4,7 @@ Trajectory Prediction in Autonomous Driving
 # Traditional Methods
 
 # CVPR2023
-- Stimulus Verification Is a Universal and Effective Sampler in Multi-Modal Human Trajectory Prediction.[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.html) [code]()
+- Stimulus Verification Is a Universal and Effective Sampler in Multi-Modal Human Trajectory Prediction.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Sun_Stimulus_Verification_Is_a_Universal_and_Effective_Sampler_in_Multi-Modal_CVPR_2023_paper.html) [code]()
 - Leapfrog Diffusion Model for Stochastic Trajectory Prediction.[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.htmlhttps://openaccess.thecvf.com/content/CVPR2023/html/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.html) [code](https://github.com/MediaBrain-SJTU/LED)
 - Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Uncovering_the_Missing_Pattern_Unified_Framework_Towards_Trajectory_Imputation_and_CVPR_2023_paper.html) [code]()
 - Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion.[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Rempe_Trace_and_Pace_Controllable_Pedestrian_Animation_via_Guided_Trajectory_Diffusion_CVPR_2023_paper.html) [code]()
