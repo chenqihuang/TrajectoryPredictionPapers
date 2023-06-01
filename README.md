@@ -51,7 +51,7 @@ Trajectory Prediction in Autonomous Driving
 - Multimodal Motion Prediction With Stacked Transformers
 
 # ICCV2021
-- DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets. [[paper]](https://arxiv.org/abs/2108.09640https://arxiv.org/abs/2108.09640) [code](https://github.com/Tsinghua-MARS-Lab/DenseTNT) [project](https://tsinghua-mars-lab.github.io/DenseTNT/)
+- DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets. [[paper]](https://arxiv.org/abs/2108.09640https://arxiv.org/abs/2108.09640) [[code]](https://github.com/Tsinghua-MARS-Lab/DenseTNT) [[[project]](https://tsinghua-mars-lab.github.io/DenseTNT/)
 
 # CVPR2020
 - Recursive Social Behavior Graph for Trajectory Prediction.
