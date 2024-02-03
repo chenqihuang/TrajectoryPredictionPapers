@@ -1,5 +1,5 @@
-# TrajectoryPrediction
-Trajectory Prediction in Autonomous Driving
+# Trajectory Prediction
+trajectory prediction papers in autonomous driving.
 
 # Traditional Methods
 
